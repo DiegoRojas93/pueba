@@ -545,7 +545,7 @@ figure {
 /* Desktop first que empieces desde el MQ más grande */
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 720px) {
 
   body{
     width: auto;
